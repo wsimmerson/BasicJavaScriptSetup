@@ -1,6 +1,12 @@
 {
   "name": "basic-set-up",
+  "description": "A basic JavaScript environment with automated testing",
+  "author" : "Wayne Simmerson <wsimmerson@gmail.com>",
   "version": "0.0.1",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/wsimmerson/BasicJavaScriptSetup"
+  },
   "devDependencies": {
     "chai": "^1.9.1",
     "grunt": "^0.4.5",
